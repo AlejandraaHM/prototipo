@@ -17,11 +17,11 @@ const OBRAS = [
     fechaAtaque: "10 marzo 1914",
     autorAtaque: "Mary Richardson",
     motivo: "protesta",
-    antes: {
-      src: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Rokeby_Venus.jpg",
-      alt: "La Venus del espejo intacta",
-      pie: "Antes · National Gallery. Wikimedia Commons.",
-    },
+antes: {
+    src: "imagenes/venus.jpg",
+    alt: "La Venus del espejo intacta.",
+    pie: "Antes · National Gallery. Wikimedia Commons.",
+},
     despues: {
       placeholder: true,
       texto: "Siete cortes de cuchillo en el lienzo (documento de prensa, 1914).",
