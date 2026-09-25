@@ -23,9 +23,9 @@ antes: {
     pie: "Antes · National Gallery. Wikimedia Commons.",
 },
     despues: {
-      placeholder: true,
-      texto: "Siete cortes de cuchillo en el lienzo (documento de prensa, 1914).",
-      pie: "Después · fotografía histórica de la Venus mutilada (1914). En producción: imagen con licencia.",
+      src: "imagenes/8.jpg",
+      alt: "La Venus del espejo después del ataque.",
+      pie: "Después · imagen del archivo adjunto.",
     },
     quePasó:
       "Mary Richardson, militante sufragista, clavó un cuchillo de carnicero en el lienzo siete veces durante una visita a la galería.",
@@ -47,14 +47,14 @@ antes: {
     autorAtaque: "William de Rijk",
     motivo: "crisis",
     antes: {
-      src: "https://upload.wikimedia.org/wikipedia/commons/5/5a/The_Night_Watch_by_Rembrandt_-_Rijksmuseum.jpg",
+      src: "imagenes/nightwatch.jpg",
       alt: "La ronda nocturna intacta",
       pie: "Antes · Rijksmuseum. Wikimedia Commons.",
     },
     despues: {
-      placeholder: true,
-      texto: "Cortes visibles tras el ataque de 1975; el barniz también resistió un ataque con ácido en 1990.",
-      pie: "Después · detalle post-restauración con marcas del corte. En producción: imagen con licencia.",
+      src: "imagenes/6.jpeg",
+      alt: "La ronda nocturna después del ataque.",
+      pie: "Después · imagen del archivo adjunto.",
     },
     quePasó:
       "En 1975, William de Rijk rasgó repetidamente el lienzo con un cuchillo. Antes hubo un intento fallido en 1911 y, en 1990, un paciente roció ácido sulfúrico (solo dañó el barniz).",
@@ -76,14 +76,14 @@ antes: {
     autorAtaque: "Ugo Ungaza Villegas",
     motivo: "crisis",
     antes: {
-      src: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+      src: "imagenes/mona.jpg",
       alt: "Mona Lisa",
       pie: "Antes · Louvre (reproducción). Wikimedia Commons.",
     },
     despues: {
-      placeholder: true,
-      texto: "Daño en el codo izquierdo (1956); antes, ataque con ácido sin fecha precisa en el original BBC.",
-      pie: "Después · zona repintada tras la piedra. En producción: documento de archivo.",
+      src: "imagenes/4.jpg",
+      alt: "Mona Lisa después del ataque.",
+      pie: "Después · imagen del archivo adjunto.",
     },
     quePasó:
       "Antes de la vitrina blindada, la obra sufrió un ataque con ácido y, en diciembre de 1956, Ungaza lanzó una piedra que desprendió pigmento cerca del codo. En 1974, en Tokio, pintura roja en protesta por accesibilidad; en 2009, una taza de cerámica contra el vidrio.",
@@ -105,14 +105,14 @@ antes: {
     autorAtaque: "László Tóth",
     motivo: "crisis",
     antes: {
-      src: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Michelangelo%27s_Pieta_5450_cropncleaned.jpg",
+      src: "imagenes/pieta.jpg",
       alt: "Piedad de Miguel Ángel",
       pie: "Antes · Basílica de San Pedro. Wikimedia Commons.",
     },
     despues: {
-      placeholder: true,
-      texto: "Brazo, ojo y parte de la nariz de la Virgen dañados a martillazos.",
-      pie: "Después · estado inmediato al ataque (1972). En producción: imagen con licencia.",
+      src: "imagenes/2.jpg",
+      alt: "Piedad de Miguel Ángel después del ataque.",
+      pie: "Después · imagen del archivo adjunto.",
     },
     quePasó:
       "Tóth se abrió paso entre peregrinos y golpeó la escultura con un martillo de geólogo, mutilando la Virgen.",
@@ -134,14 +134,14 @@ antes: {
     autorAtaque: "Varios autores",
     motivo: "desconocido",
     antes: {
-      src: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Mermaid_Copenhagen.jpg",
+      src: "imagenes/mermaid.jpg",
       alt: "La sirenita en Copenhague",
       pie: "Antes · escultura en el paseo marítimo. Wikimedia Commons.",
     },
     despues: {
-      placeholder: true,
-      texto: "Decapitaciones (1964, 1998), brazo arrancado (1984), explosivos (2003), pintura y objetos añadidos.",
-      pie: "Después · episodios documentados por la prensa danesa. En producción: archivo con licencia.",
+      src: "imagenes/1.jpg",
+      alt: "La sirenita después del ataque.",
+      pie: "Después · imagen del archivo adjunto.",
     },
     quePasó:
       "Desde 1960 la estatua ha sido decapitada, mutilada, pintada y vandalizada repetidamente; las autoridades la alejaron del borde del agua.",
@@ -163,14 +163,14 @@ antes: {
     autorAtaque: "Pierre Pinoncelli",
     motivo: "gesto",
     antes: {
-      src: "https://upload.wikimedia.org/wikipedia/commons/7/70/Marcel_Duchamp%2C_1917%2C_Fountain%2C_ photograph_by_Alfred_Stieglitz.jpg",
+      src: "imagenes/fountain.jpg",
       alt: "La fuente de Duchamp (foto Stieglitz)",
       pie: "Antes · reproducción histórica del readymade. Wikimedia Commons.",
     },
     despues: {
-      placeholder: true,
-      texto: "Copia dañada con martillo en 2006; en 1993 Pinoncelli orinó en otra réplica en Nîmes.",
-      pie: "Después · réplica intervenida. En producción: imagen con licencia.",
+      src: "imagenes/3.jpg",
+      alt: "La fuente después de la intervención.",
+      pie: "Después · imagen del archivo adjunto.",
     },
     quePasó:
       "Pinoncelli atacó con martillo una copia en el Pompidou (2006) y, en 1993, orinó en otra versión en exhibición.",
@@ -221,14 +221,14 @@ antes: {
     autorAtaque: "Rindy Sam",
     motivo: "gesto",
     antes: {
-      src: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cy_Twombly_%28Roman%29.jpg",
+      src: "imagenes/twombly.jpg",
       alt: "Obra de Cy Twombly en tonos claros",
       pie: "Antes · referencia visual al estilo del tríptico. Wikimedia Commons.",
     },
     despues: {
-      placeholder: true,
-      texto: "Beso con pintalabios rojo sobre el lienzo blanco.",
-      pie: "Después · mancha de labial documentada en juicio (2007). En producción: imagen con licencia.",
+      src: "imagenes/7.jpeg",
+      alt: "Obra de Cy Twombly después de la intervención.",
+      pie: "Después · imagen del archivo adjunto.",
     },
     quePasó:
       "Rindy Sam besó un panel del tríptico y dejó una huella de pintalabios; fue multada por daños y perjuicios.",
@@ -250,14 +250,14 @@ antes: {
     autorAtaque: "Vladimir Umanets",
     motivo: "gesto",
     antes: {
-      src: "https://upload.wikimedia.org/wikipedia/en/2/2f/Black_on_Maroon.jpg",
+      src: "imagenes/rothko.jpg",
       alt: "Black on Maroon antes del ataque",
       pie: "Antes · Tate Modern. Wikimedia Commons.",
     },
     despues: {
-      placeholder: true,
-      texto: "Franja de pintura negra e inscripción «Yellowism».",
-      pie: "Después · Tate Modern, 2012. En producción: imagen con licencia.",
+      src: "imagenes/5.jpeg",
+      alt: "Black on Maroon después del ataque.",
+      pie: "Después · imagen del archivo adjunto.",
     },
     quePasó:
       "Un visitante escribió con pintura negra sobre el lienzo antes de salir de la sala.",
